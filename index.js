@@ -66,4 +66,4 @@ client.on('message', message => {
 	}
 });
 
-client.login('NTgwNTA3OTI4MjMxMDE4NDk2.XPb1kg.hhPZKOAKiHRomDU09kzj6Eazj0k');
+client.login('<Insert Client Login Key Here>');
